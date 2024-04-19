@@ -10,7 +10,7 @@ MASTERMIND Logic and Prediction: aGLM utilizes advanced reasoning and logic unde
 Decentralized Knowledge Storage: One of the long-term goals of aGLM is to store 'knowledge THOTs' (Theories of Hypothetical Output Trajectories) on decentralized platforms like blockchain, allowing for secure and persistent memory that enhances continuous learning capabilities.
 This model is particularly beneficial for handling complex data analysis tasks in dynamic environments, providing not just data processing but also generating actionable insights and innovative solutions beyond conventional data distribution patterns​​.
 
-aGLM is being built using augmentation tools including that include outputs from several openai GPT4 models including<br />
+aGLM is being built using augmentation tools including output from openai GPT4 models including<br /><br />
 <a href="https://chat.openai.com/g/g-f3jA46eUE-aglm">aGLM</a> GPT4<br />
 <a href="https://chat.openai.com/g/g-gNLDlpcAv-professor-codephreak">codephreak</a> platform architect and software engineer GPT4<br />
 <a href="https://chat.openai.com/g/g-NO8ax8aMU-mastermind">MASTERMIND</a> rational controller of agencyGPT4<br />

@@ -21,4 +21,4 @@ aGLM is being built using augmentation tools including output from openai GPT4 m
 # links
 <a href="https://huggingface.co">huggingface</a><br />
 <a href="https://together.ai">together.ai</a><br />
-<a href="https://vectura.com">vectara</a><br />
+<a href="https://vectara.com">vectara</a><br />
